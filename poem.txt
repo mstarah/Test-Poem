@@ -1,4 +1,4 @@
-The Color Palette
+The Color Palette and Languages
 
 Purple
 Pink
@@ -7,5 +7,7 @@ Blue
 Green
 Red
 Yellow
+English
 
 These are the primary shades in the color palette.
+And a language.

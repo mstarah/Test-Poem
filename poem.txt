@@ -1,4 +1,4 @@
-The Color Palette and Languages
+The Color Palette and Languages and the Fruits
 
 Purple
 Pink
@@ -8,6 +8,7 @@ Green
 Red
 Yellow
 English
+Apple
 
 These are the primary shades in the color palette.
 And a language.

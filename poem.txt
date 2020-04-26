@@ -1,0 +1,9 @@
+The Color Palette
+
+Purple
+Pink
+Orange
+Blue
+Red
+
+These are the primary shades in the color palette.
